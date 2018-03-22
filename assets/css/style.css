@@ -1,10 +1,12 @@
+
 .navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: xx-large;
+    font-size: x-large;
     font-weight: bold;
     background: #4aaaa5;
     padding: 20px;
     color: #ffffff;
+    z-index: 10;
 }
 
 .nav-item {
@@ -26,20 +28,6 @@
     padding-bottom: 0px;
 }
 
-.navbar-expand-lg {
-    border-bottom: #cccccc 2px solid;
-    padding-bottom: 0px;
-}
-
-.navbar-light {
-    border-bottom: #cccccc 2px solid;
-    padding-bottom: 0px;
-}
-
-.bg-light {
-    border-bottom: #cccccc 2px solid;
-    padding-bottom: 0px;
-}
 
 .verticalLine {
     border-left: thin solid gray;
@@ -49,6 +37,7 @@
 .container {
     width: 960px;
     margin: 0 auto;
+
 }
 
 
@@ -68,5 +57,18 @@ hr {
 .btn {
     background: #4aaaa5;
     border: #4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+.form-group {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-8 {
+    background: #ffffff;
+    border: #cccccc;
+    border-width: 2px;
+    border-style: solid;
+    padding: 40px 30px;
+
+}
