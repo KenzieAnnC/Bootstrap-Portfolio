@@ -97,7 +97,7 @@ footer {
     border-width: 10px;
 }
 
-p.copyright {
+.copyright {
     position: absolute;
     width: 100%;
     color: #fff;
