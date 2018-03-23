@@ -79,4 +79,10 @@ hr {
     border-width: 2px;
     border-style: solid;
     padding: 40px 30px; 
+    float: right;
+}
+
+.icons {
+    float: right;
+
 }
