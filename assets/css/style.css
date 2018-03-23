@@ -1,8 +1,8 @@
 
-.navbar-brand {
+.logo {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: x-large;
-    font-weight: bold;
+    font-size: 30px;
+    font-weight: 700;
     background: #4aaaa5;
     padding: 20px;
     color: #ffffff;
@@ -23,7 +23,7 @@
 
 }
 
-.navbar {
+.navmain {
     border-bottom: #cccccc 2px solid;
     padding-bottom: 0px;
 }
@@ -64,11 +64,19 @@ hr {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.col-8 {
+.col-6 {
     background: #ffffff;
     border: #cccccc;
     border-width: 2px;
     border-style: solid;
     padding: 40px 30px;
 
+}
+
+.col-4 {
+    background: #ffffff;
+    border: #cccccc;
+    border-width: 2px;
+    border-style: solid;
+    padding: 40px 30px; 
 }
