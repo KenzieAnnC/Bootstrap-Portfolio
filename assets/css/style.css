@@ -128,3 +128,38 @@ footer {
     float: left;
     padding: 5px 15px 0px 0px;
 }
+
+.portfolio {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: #4aaaa5;
+    font-weight: 700;
+}
+
+.containerimg {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+  }
+
+  .work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
